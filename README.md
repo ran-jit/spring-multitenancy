@@ -6,9 +6,9 @@ Multi-tenancy has become more popular lately and is very useful for the economy 
 
 ## How does multi-tenancy work?
 
-Multi-tenancy allows a single application instance to be served for multiple tenants on a single hosting server. This is usually performed by either Separating databases, Separating schemas or Sharing schemas.
+Multi-tenancy allows a single application instance to be served for multiple tenants on a single server. This is usually performed by either Separating databases, Separating schemas or Sharing schemas.
 
-This architecture therefore allows for a single instance to service different companies.
+This architecture therefore allows for a single instance to service different clients.
 
 ![Multi-tenancy](https://github.com/ran-jit/spring-multitenancy/blob/master/src/main/resources/multi-tenancy-architecture.png)
 
