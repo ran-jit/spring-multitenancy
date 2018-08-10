@@ -36,3 +36,6 @@ No choice is better than another, every choice has different advantages and disa
   (Separate database is fully isolated, also it provides backup easily per tenant)
 
 New installation and tenant creation scripts., https://github.com/ran-jit/spring-multitenancy/tree/master/db-scripts
+
+-----------------------------------------
+Ranjith Manickam | www.ranmanic.in @ 2018
