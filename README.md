@@ -38,4 +38,4 @@ No choice is better than another, every choice has different advantages and disa
 New installation and tenant creation scripts., https://github.com/ran-jit/spring-multitenancy/tree/master/db-scripts
 
 -----------------------------------------
-Ranjith Manickam | www.ranmanic.in @ 2018
+Ranjith Manickam | www.ranmanic.in @ 2019
